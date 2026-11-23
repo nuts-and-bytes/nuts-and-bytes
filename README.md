@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://heystone.site/"><strong>个人网站</strong></a> ·
   <a href="https://blog.heystone.site/"><strong>独立博客</strong></a> ·
+  <a href="https://health.heystone.site/"><strong>懂点健康</strong></a> ·
   <a href="https://read.heystone.site/"><strong>Research Edition</strong></a> ·
   <a href="https://youdang.heystone.site/"><strong>游荡集</strong></a> ·
   <a href="https://heystone.site/moments">Moments</a> ·
@@ -74,6 +75,7 @@ Hi，我是 **xinyao（stone / 石头）**。在北外读国际商务，虽非�
 | 如果你此刻想…… | 推荐先打开 |
 | :--- | :--- |
 | 玩点有故事的 3D 互动，顺便逛逛 AI 博物馆 | [**Product Quest · 产品经理大冒险 ↗**](https://nuts-and-bytes.github.io/Product-quest/) |
+| 用图解、小人动画和原始证据拆穿健康谣言、精读健康播客 | [**懂点健康 · Health Stone ↗**](https://health.heystone.site/) |
 | 静下心一次读完一篇高质量 AI 产业长报告 | [**Research Edition · AI 产业长文解读 ↗**](https://read.heystone.site/) |
 | 看真实踩坑笔记、读书回声和拿走就能用的 AI Skill | [**stone · 独立博客 ↗**](https://blog.heystone.site/) |
 | 把喜欢的播客长谈当成一本书慢慢翻阅 | [**游荡集 · 播客精读专题站 ↗**](https://youdang.heystone.site/) |
@@ -105,6 +107,7 @@ Hi，我是 **xinyao（stone / 石头）**。在北外读国际商务，虽非�
 
 | 站点 | 定位与内容 | 入口 |
 | :--- | :--- | :---: |
+| [**懂点健康 · Health Stone**](https://health.heystone.site/) | **交互式健康科普与播客精读站**：先站队再看证据的谣言法庭、12 块医学解剖肌群 + 橙线小人动画、40 份判决书与三栏 AI 播客工作台 · [源码](https://github.com/nuts-and-bytes/health-heystone) | [逛逛站点 ↗](https://health.heystone.site/) |
 | [**stone · 个人博客**](https://blog.heystone.site/) | **静水流深**：20 篇读书笔记、个人随笔与 AI 实战记录（含 Obsidian 第二大脑、`wait-what` 小橙互动与可下载 Skill）· [源码](https://github.com/nuts-and-bytes/stone-blog) | [阅读博客 ↗](https://blog.heystone.site/) |
 | [**Research Edition · AI 长文解读**](https://read.heystone.site/) | **沉浸式 AI 深度阅读室**：去掉碎片快讯杂音，精选投资与研究机构原始 AI 产业长文与报告，标明出处与证据边界，配中文脉络导读 | [走进阅读室 ↗](https://read.heystone.site/) |
 | [**stone · 个人网站**](https://heystone.site/) | **敞着门的书桌总入口**：代表作品页内体验、微动画工具箱、Moments 动态流与可点亮台灯的「Stone 的一角」· [源码](https://github.com/nuts-and-bytes/stone-site) | [访问网站 ↗](https://heystone.site/) |
