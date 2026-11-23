@@ -61,7 +61,7 @@ Hi，我是 **xinyao（stone / 石头）**。在北外读国际商务，虽非�
 
 如果你也在折腾 AI 工作流、最近读到了后劲很长的书或播客，或者试玩了下面的作品有想法：
 
-- 📝 [**在我的 GitHub 书桌上留张纸条 ↗**](https://github.com/nuts-and-bytes/nuts-and-bytes/issues/new?title=Hi%20Stone!%20%F0%9F%AA%A8&body=%E5%97%A8%E7%9F%B3%E5%A4%B4%EF%BC%8C%E8%B7%AF%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B9%A6%E6%A1%8C%EF%BC%8C%E6%83%B3%E5%92%8C%E4%BD%A0%E8%81%8A%E8%81%8A%EF%BC%9A%0A%0A)（打开预填好的留言 Issue，随手打个招呼）
+- 📝 [**在我的 GitHub 书桌上留张纸条 ↗**](https://github.com/nuts-and-bytes/nuts-and-bytes/issues/new?template=say-hi.yml)（打开书桌留言卡，随手打个招呼）
 - ✉️ 写封信给我：[zhuxinyao99@gmail.com](mailto:zhuxinyao99@gmail.com) · Telegram：[@ericlibro](https://t.me/ericlibro)
 
 </details>
@@ -88,6 +88,16 @@ Hi，我是 **xinyao（stone / 石头）**。在北外读国际商务，虽非�
 - 🧭 **AI 工作流与工程纪律**：打磨私域商业情报助手（GraphRAG），把从模糊想法到可运行版本的 0→1 路径整理成可复用的 Agent 路由器
 - 🏝️ **可玩的知识世界**：持续扩展 [Product Quest](https://github.com/nuts-and-bytes/Product-quest) 的四块 3D 开放大陆与**星潮 AI 博物馆**
 - ✍️ **深度阅读与写作**：在 [stone 博客](https://blog.heystone.site/) 写读书与 AI 实战，在 [Research Edition](https://read.heystone.site/) 沉淀 AI 产业长文导读
+
+---
+
+### ✍️ 最近写的三篇 · Latest from [blog.heystone.site](https://blog.heystone.site/)
+
+<!-- BLOG-POST-LIST:START -->
+- `2026-11-17` · [我让 AI 把 X 网页做成了桌面应用 ↗](https://blog.heystone.site/posts/pake-x-desktop-with-ai)
+- `2026-11-13` · [wait-what：这段没懂，重讲一下 ↗](https://blog.heystone.site/posts/wait-what-explain-again)
+- `2026-10-28` · [《一句顶一万句》读后感 ↗](https://blog.heystone.site/posts/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5-%E8%AF%BB%E5%90%8E%E6%84%9F)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

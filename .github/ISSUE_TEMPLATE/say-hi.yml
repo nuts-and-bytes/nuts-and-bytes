@@ -1,0 +1,23 @@
+name: 🪨 在石头的书桌上留张纸条
+description: 路过打个招呼、聊一聊 AI 工作流、分享一本好书，或给作品提点建议
+title: "Hi Stone! 🪨 "
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        你好呀，我是石头。书房门虚掩着，谢谢你一路逛到这里——随便留句话、分享一本最近读到后劲很长的书/播客，或者聊聊你正在折腾的东西都很欢迎。
+  - type: textarea
+    id: note
+    attributes:
+      label: 想聊点什么？
+      placeholder: 嗨石头，刚刚逛了你的书桌，想和你聊聊……
+    validations:
+      required: true
+  - type: input
+    id: from
+    attributes:
+      label: 怎么称呼你 / 你的主页（可选）
+      placeholder: 昵称、博客或 GitHub 主页都可以
+    validations:
+      required: false
