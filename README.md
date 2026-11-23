@@ -105,9 +105,9 @@ Hi，我是 **xinyao（stone / 石头）**。在北外读国际商务，虽非�
 
 | 站点 | 定位与内容 | 入口 |
 | :--- | :--- | :---: |
-| [**stone · 个人博客**](https://blog.heystone.site/) | **静水流深**：20 篇读书笔记、个人随笔与 AI 实战记录（含 Obsidian 第二大脑、`wait-what` 小橙互动与可下载 Skill）· [源码](https://github.com/nuts-and-bytes/ai-songshu-garden) | [阅读博客 ↗](https://blog.heystone.site/) |
+| [**stone · 个人博客**](https://blog.heystone.site/) | **静水流深**：20 篇读书笔记、个人随笔与 AI 实战记录（含 Obsidian 第二大脑、`wait-what` 小橙互动与可下载 Skill）· [源码](https://github.com/nuts-and-bytes/stone-blog) | [阅读博客 ↗](https://blog.heystone.site/) |
 | [**Research Edition · AI 长文解读**](https://read.heystone.site/) | **沉浸式 AI 深度阅读室**：去掉碎片快讯杂音，精选投资与研究机构原始 AI 产业长文与报告，标明出处与证据边界，配中文脉络导读 | [走进阅读室 ↗](https://read.heystone.site/) |
-| [**stone · 个人网站**](https://heystone.site/) | **敞着门的书桌总入口**：代表作品页内体验、微动画工具箱、Moments 动态流与可点亮台灯的「Stone 的一角」· [源码](https://github.com/nuts-and-bytes/portfolio) | [访问网站 ↗](https://heystone.site/) |
+| [**stone · 个人网站**](https://heystone.site/) | **敞着门的书桌总入口**：代表作品页内体验、微动画工具箱、Moments 动态流与可点亮台灯的「Stone 的一角」· [源码](https://github.com/nuts-and-bytes/stone-site) | [访问网站 ↗](https://heystone.site/) |
 | [**游荡集 · 播客精读站**](https://youdang.heystone.site/) | **把播客读成一本书**：许知远《游荡集》非官方精读小站，含游荡地图、人物书影音索引与随时回溯原声 | [翻开游荡集 ↗](https://youdang.heystone.site/) |
 
 ---
