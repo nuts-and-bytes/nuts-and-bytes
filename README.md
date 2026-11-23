@@ -38,8 +38,8 @@ Hi，我是 **朱鑫垚（stone / 石头）**。在北外读国际商务，虽�
 | [**Product Quest · 产品经理大冒险**](https://github.com/nuts-and-bytes/Product-quest) | 四块 3D 开放大陆（产品 / AI / 增长 / 设计）+ 星潮 AI 博物馆，用现场调查与实验代替背框架 | [登岛试玩 ↗](https://nuts-and-bytes.github.io/Product-quest/) |
 | [**铁证 IRONPROOF**](https://github.com/nuts-and-bytes/tiezheng) | 本地优先的训练、营养与体重 PWA，攒久了能看趋势，也能生成一张给自己打气的训练海报 | [打开应用 ↗](https://tiezheng.pages.dev/) |
 | [**Zero-to-One Product**](https://github.com/nuts-and-bytes/zero-to-one-product) | 把产品发现与工程执行接成一条固定路线的 Codex 0→1 流程路由器 | [交互文档 ↗](https://nuts-and-bytes.github.io/zero-to-one-product/) |
-| [**stone · 个人网站**](https://github.com/nuts-and-bytes/portfolio) | 作品、文章与 Moments 的统一入口，带可翻看的照片叠与桌面小挂件 | [heystone.site ↗](https://heystone.site/) |
-| [**stone · 独立博客**](https://github.com/nuts-and-bytes/ai-songshu-garden) | 读书笔记、个人随笔与 AI 实践记录，配细线橙色插画与互动角色「小橙」 | [blog.heystone.site ↗](https://blog.heystone.site/) |
+| [**stone · 个人网站**](https://github.com/nuts-and-bytes/portfolio) | 作品、文章与 Moments 的统一入口，带可翻看的照片叠与桌面小挂件 | [访问网站 ↗](https://heystone.site/) |
+| [**stone · 独立博客**](https://github.com/nuts-and-bytes/ai-songshu-garden) | 读书笔记、个人随笔与 AI 实践记录，配细线橙色插画与互动角色「小橙」 | [阅读博客 ↗](https://blog.heystone.site/) |
 | [**Daily Tree · 记忆森林**](https://github.com/nuts-and-bytes/daily-tree) | 每天留下一句话与一张图，屏幕里的小树会跟着你的记录抽枝长叶 | [种一棵树 ↗](https://nuts-and-bytes.github.io/daily-tree/app/) |
 | [**Word Universe · 词义星系**](https://github.com/nuts-and-bytes/word-universe) | 把学过的词放进可漫游的 D3 星空，支持可选语义向量按词义聚类 | [漫游星系 ↗](https://nuts-and-bytes.github.io/word-universe/app/) |
 | **游荡集 & Research Edition** | 把播客长谈读成一本书；去掉快讯杂音的沉浸式 AI 产业长文阅读室 | [游荡集 ↗](https://youdang.heystone.site/) · [阅读室 ↗](https://read.heystone.site/) |
